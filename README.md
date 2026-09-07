@@ -7,9 +7,9 @@
 
 | Information | À compléter |
 |---|---|
-| Nom et prénom | ... |
-| Classe | ... |
-| Nom d'utilisateur GitHub | ... |
+| Nom et prénom | oussama el hadad |
+| Classe | A |
+| Nom d'utilisateur GitHub | oussamaelhadad|
 
 ## 🧭 Comment travailler
 
