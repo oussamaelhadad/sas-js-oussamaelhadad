@@ -19,7 +19,7 @@
 // 2. Écris ta solution sous cette ligne.
 // TODO: écris ta solution ici.
 let panier = 350
-if (panier >= 200 && panier < 500 )
+if (panier > 200 && panier < 500 )
     console.log("Cout final: "  + panier + " MAD , livraison gratuite" )
 else if (panier >= 500)
     console.log("Cout final: " + panier/100 * 90 + " MAD, livraison gratuite")
