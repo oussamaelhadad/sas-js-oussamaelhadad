@@ -14,18 +14,3 @@
 
 // 1. Identifie les données nécessaires.
 // 2. Écris ta solution sous cette ligne.
-function sentence (texte) {
-  let compteur = {}
-
-  for (let alphabet of texte) {
-    if (compteur[alphabet]) {
-      compteur[alphabet] += 1
-    } else {
-      compteur[alphabet] = 1
-    }
-  }
-
-  return compteur
-}
-
-console.log(sentence("abracadabra"));
